@@ -1,6 +1,5 @@
-# cp-mobile
-CP-Mobile
 
+##CP-Mobile grupo challenge
 ## Cristine Acocella || RM 88251
 
 ## Jonathan Felix || RM: 88082
